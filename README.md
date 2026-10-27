@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Oson SMS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://osonsms.com/
+Oson SMS provides a cloud-based SMS messaging platform for businesses, offering flexible bulk SMS sending, personalized campaigns, delivery analytics, and integration options. The service supports multiple payment methods, detailed reporting, and partner programs, enabling companies to engage customers via SMS with branded sender IDs and real-time statistics.
+
+**Areas:** Company · SMS · Messaging · Cloud · Communications
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://osonsms.com/)
+- [Documentation](https://osonsms.com/docs/sms-api-documentation.pdf)
+- [API reference](https://app.swaggerhub.com/apis/OsonSMS/OsonSMS/1.0.3)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/osonsms/](https://apis.io/providers/osonsms/).
