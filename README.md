@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Oson SMS provides a cloud-based SMS messaging platform for businesses, offering flexible bulk SMS sending, personalized campaigns, delivery analytics, and integration options. The service supports multiple payment methods, detailed reporting, and partner programs, enabling companies to engage customers via SMS with branded sender IDs and real-time statistics.
+Oson SMS provides a cloud‑based SMS messaging platform for businesses in Tajikistan and the surrounding region, enabling bulk SMS sending, personalized campaigns, delivery analytics, and integration options. The service supports multiple payment methods, detailed reporting, partner programs, and offers branded sender IDs with real‑time statistics for engaging customers via text messages.
 
 **Areas:** Company · SMS · Messaging · Cloud · Communications
 
@@ -74,7 +74,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://osonsms.com/)
 - [Documentation](https://osonsms.com/docs/sms-api-documentation.pdf)
-- [API reference](https://app.swaggerhub.com/apis/OsonSMS/OsonSMS/1.0.3)
+- [Sign up](https://cab.osonsms.com/signup)
 
 **APIs profiled:** 1
 
